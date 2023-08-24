@@ -30,4 +30,5 @@ By the end of this course, you will have a complete understanding of how to buil
 
 ## Section 1 : Introduction
 1. Starting up project
+3. creating a theme
 
