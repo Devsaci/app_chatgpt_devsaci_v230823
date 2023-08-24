@@ -14,6 +14,7 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         title: const Text("ChatGpt_Devsaci"),
       ),
+      body: const Center(child: Text("Homescreen")),
     );
   }
 }
