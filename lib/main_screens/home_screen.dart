@@ -13,6 +13,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("ChatGpt_Devsaci"),
+        backgroundColor: Colors.green,
       ),
       body: const Center(child: Text("Homescreen")),
     );
